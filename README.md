@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/msboffl/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3617-find-the-original-typed-string-i](https://github.com/msboffl/leetcode-practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/msboffl/leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/msboffl/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/msboffl/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/msboffl/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Counting
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/msboffl/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/msboffl/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
