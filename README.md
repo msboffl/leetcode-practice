@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/msboffl/leetcode-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/msboffl/leetcode-practice/tree/master/0046-permutations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/msboffl/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/msboffl/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/msboffl/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/msboffl/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/msboffl/leetcode-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/msboffl/leetcode-practice/tree/master/0046-permutations) |
 ## Greedy
 |  |
