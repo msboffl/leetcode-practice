@@ -1,22 +1,20 @@
 function generateParenthesis(n: number): string[] {
-    const res: string[] = [];
+    const ans = [];
 
-    function backtrack(open, close, path) {
+    function backtrack(path, left, right) {
         if(path.length === n * 2) {
-            res.push(path);
+            ans.push(path);
             return;
         }
+        if(left < n) {
+            backtrack(path + "(", left + 1, right);
+        }
 
-        if(open < n) {
-            backtrack(open+1, close, path + "(")
-        } 
-
-        if(close < open) {
-            backtrack(open, close+1, path + ")")
+        if(right < left) {
+            backtrack(path + ")", left, right + 1);
         }
     }
-
-    backtrack(0, 0, "");
-
-    return res;
+    
+    backtrack("", 0, 0);
+    return ans;
 };
