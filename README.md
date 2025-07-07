@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/msboffl/leetcode-practice/tree/master/0046-permutations) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/msboffl/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/msboffl/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/msboffl/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
@@ -64,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/msboffl/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/msboffl/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/msboffl/leetcode-practice/tree/master/0046-permutations) |
+## Greedy
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/msboffl/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Sorting
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/msboffl/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/msboffl/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
