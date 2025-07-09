@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/msboffl/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/msboffl/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/msboffl/leetcode-practice/tree/master/0046-permutations) |
+| [0088-merge-sorted-array](https://github.com/msboffl/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/msboffl/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/msboffl/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/msboffl/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/msboffl/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/msboffl/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/msboffl/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Heap (Priority Queue)
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/msboffl/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/msboffl/leetcode-practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
