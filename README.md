@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/msboffl/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/msboffl/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/msboffl/leetcode-practice/tree/master/0043-multiply-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/msboffl/leetcode-practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/msboffl/leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/msboffl/leetcode-practice/tree/master/0043-multiply-strings) |
 | [1086-divisor-game](https://github.com/msboffl/leetcode-practice/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/msboffl/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/msboffl/leetcode-practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/msboffl/leetcode-practice/tree/master/0043-multiply-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/msboffl/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
