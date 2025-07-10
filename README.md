@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/msboffl/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [1086-divisor-game](https://github.com/msboffl/leetcode-practice/tree/master/1086-divisor-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/msboffl/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/msboffl/leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/msboffl/leetcode-practice/tree/master/1086-divisor-game) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/msboffl/leetcode-practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/msboffl/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/msboffl/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/msboffl/leetcode-practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/msboffl/leetcode-practice/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/msboffl/leetcode-practice/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
