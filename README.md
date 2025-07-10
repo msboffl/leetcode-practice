@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/msboffl/leetcode-practice/tree/master/1086-divisor-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/msboffl/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/msboffl/leetcode-practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/msboffl/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/msboffl/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/msboffl/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/msboffl/leetcode-practice/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/msboffl/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/msboffl/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/msboffl/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/msboffl/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/msboffl/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
