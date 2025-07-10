@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2659-number-of-even-and-odd-bits](https://github.com/msboffl/leetcode-practice/tree/master/2659-number-of-even-and-odd-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/msboffl/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/msboffl/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
