@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/msboffl/leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/msboffl/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/msboffl/leetcode-practice/tree/master/0043-multiply-strings) |
+| [3396-valid-word](https://github.com/msboffl/leetcode-practice/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/msboffl/leetcode-practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/msboffl/leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
