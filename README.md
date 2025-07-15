@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/msboffl/leetcode-practice/tree/master/0043-multiply-strings) |
+| [0371-sum-of-two-integers](https://github.com/msboffl/leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [1086-divisor-game](https://github.com/msboffl/leetcode-practice/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/msboffl/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/msboffl/leetcode-practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/msboffl/leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [2659-number-of-even-and-odd-bits](https://github.com/msboffl/leetcode-practice/tree/master/2659-number-of-even-and-odd-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/msboffl/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/msboffl/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
